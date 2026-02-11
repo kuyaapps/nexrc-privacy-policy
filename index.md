@@ -1,7 +1,5 @@
 # Política de Privacidade - NEXRC
 
-> **NOTA IMPORTANTE:** Antes de publicar esta Política de Privacidade, certifique-se de substituir os campos marcados com [Inserir...] na Seção 12 (Contato) com suas informações reais de contato.
-
 **Última atualização:** 11 de fevereiro de 2026
 
 ## 1. Introdução
