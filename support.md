@@ -61,17 +61,8 @@ Verifique se você está conectado à internet e logado na conta correta.
 You can read our privacy policy here:  
 Você pode ler nossa política de privacidade aqui:
 
-https://seusite.com/privacy
+[https://kuyaapps.github.io/nexrc](https://kuyaapps.github.io/nexrc)
 
----
 
-## 📜 Terms of Use / Termos de Uso
-
-Terms of Use:  
-Termos de Uso:
-
-https://seusite.com/terms
-
----
 
 © 2026 NEXRC. All rights reserved.
